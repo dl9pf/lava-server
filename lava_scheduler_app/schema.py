@@ -203,7 +203,8 @@ def _job_protocols_schema():
                 }
             }
         },
-        'lava-lxc': dict
+        'lava-lxc': dict,
+        'lava-xnbd': dict
     })
 
 
